@@ -3239,93 +3239,14 @@
       ]
     },
     {
-      "id": "grafana-image-renderer",
-      "type": "renderer",
-      "url": "https://github.com/grafana/grafana-image-renderer",
+      "id": "rockset-grafana",
+      "type": "datasource",
+      "url": "https://github.com/rockset/rockset-grafana",
       "versions": [
-        {
-          "version": "1.0.0",
-          "commit": "64b48a44ea58a97c4795f4987c8285c32810fb85",
-          "url": "https://github.com/grafana/grafana-image-renderer",
-          "download": {
-            "darwin-amd64": {
-              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.0/plugin-darwin-x64-unknown.zip",
-              "md5": "92abd577c3ea11f5fb769a854013721a"
-            },
-            "linux-amd64": {
-              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.0/plugin-linux-x64-glibc.zip",
-              "md5": "fa0ae6d9fbe99b75927cec7fe408eb3f"
-            },
-            "windows-amd64": {
-              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.0/plugin-win32-x64-unknown.zip",
-              "md5": "842d6c998840abe4b9608c0d5c86af59"
-            }
-          }
-        },
-        {
-          "version": "1.0.5",
-          "commit": "028008e4faa6a44e081e9880a5e43d75b5629142",
-          "url": "https://github.com/grafana/grafana-image-renderer",
-          "download": {
-            "darwin-amd64": {
-              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.5/plugin-darwin-x64-unknown.zip",
-              "md5": "ffbd19a53649b2cc25d1123316037775"
-            },
-            "linux-amd64": {
-              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.5/plugin-linux-x64-glibc.zip",
-              "md5": "2d8b946e6d203286d0908a0da04d4b58"
-            },
-            "windows-amd64": {
-              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.5/plugin-win32-x64-unknown.zip",
-              "md5": "e3381cb73b0c780cc6db2b9b9575ae50"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "alexandra-trackmap-panel",
-      "type": "panel",
-      "url": "https://github.com/alexandrainst/alexandra-trackmap-panel",
-      "versions": [
-        {
-          "version": "1.2.0",
-          "commit": "b383485053bcedcf18ab75be1b04a995e7b9c464",
-          "url": "https://github.com/alexandrainst/alexandra-trackmap-panel"
-        }
-      ]
-    },
-    {
-      "id": "devopsprodigy-kubegraf-app",
-      "type": "app",
-      "url": "https://github.com/devopsprodigy/kubegraf",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "commit": "c60f8057ee8a7da2dfb000aafcceab024086548b",
-          "url": "https://github.com/devopsprodigy/kubegraf"
-        },
         {
           "version": "1.0.1",
-          "commit": "219cbc428f8543a97ffc6ca2bc8e18ccf4334638",
-          "url": "https://github.com/devopsprodigy/kubegraf"
-        },
-        {
-          "version": "1.1.0",
-          "commit": "ca5b728397b662c677740812b46dd590b00fb908",
-          "url": "https://github.com/devopsprodigy/kubegraf"
-        }
-      ]
-    },
-    {
-      "id": "oci-datasource",
-      "type": "app",
-      "url": "https://github.com/oracle/oci-grafana-plugin",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "commit": "785b1cc0a2109f626bd66d7a3bcc453a0d975118",
-          "url": "https://github.com/oracle/oci-grafana-plugin"
+          "commit": "23e871babf84ecdeab08d23cca8c52d29abf5f7d",
+          "url": "https://github.com/rockset/rockset-grafana"
         }
       ]
     }
